@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "medieval-marble": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
